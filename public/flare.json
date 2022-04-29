@@ -1,0 +1,378 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "example1",
+      "children": [
+        {
+          "name": "example2",
+          "children": [
+            { "name": "example3", "value": 3938 },
+            { "name": "example4", "value": 3812 },
+            { "name": "example", "value": 6714 },
+            { "name": "example", "value": 743 }
+          ]
+        },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 3534 },
+            { "name": "example", "value": 5731 },
+            { "name": "example", "value": 7840 },
+            { "name": "example", "value": 5914 },
+            { "name": "example", "value": 3416 }
+          ]
+        },
+        {
+          "name": "example",
+          "children": [{ "name": "example", "value": 7074 }]
+        }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [
+        { "name": "example", "value": 17010 },
+        { "name": "example", "value": 5842 },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 1983 },
+            { "name": "example", "value": 2047 },
+            { "name": "example", "value": 1375 },
+            { "name": "example", "value": 8746 },
+            { "name": "example", "value": 2202 },
+            { "name": "example", "value": 1382 },
+            { "name": "example", "value": 1629 },
+            { "name": "example", "value": 1675 },
+            { "name": "example", "value": 2042 }
+          ]
+        },
+        { "name": "example", "value": 1041 },
+        { "name": "example", "value": 5176 },
+        { "name": "example", "value": 449 },
+        { "name": "example", "value": 5593 },
+        { "name": "example", "value": 5534 },
+        { "name": "example", "value": 9201 },
+        { "name": "example", "value": 19975 },
+        { "name": "example", "value": 1116 },
+        { "name": "example", "value": 6006 }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 721 },
+            { "name": "example", "value": 4294 },
+            { "name": "example", "value": 9800 },
+            { "name": "example", "value": 1314 },
+            { "name": "example", "value": 2220 }
+          ]
+        },
+        { "name": "example", "value": 1759 },
+        { "name": "example", "value": 2165 },
+        { "name": "example", "value": 586 },
+        { "name": "example", "value": 3331 },
+        { "name": "example", "value": 772 },
+        { "name": "example", "value": 3322 }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [
+        { "name": "example", "value": 8833 },
+        { "name": "example", "value": 1732 },
+        { "name": "example", "value": 3623 },
+        { "name": "example", "value": 10066 }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [{ "name": "example", "value": 4116 }]
+    },
+    {
+      "name": "example",
+      "children": [
+        { "name": "example", "value": 1082 },
+        { "name": "example", "value": 1336 },
+        { "name": "example", "value": 319 },
+        { "name": "example", "value": 10498 },
+        { "name": "example", "value": 2822 },
+        { "name": "example", "value": 9983 },
+        { "name": "example", "value": 2213 },
+        { "name": "example", "value": 1681 }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [
+        { "name": "example", "value": 1616 },
+        { "name": "example", "value": 1027 },
+        { "name": "example", "value": 3891 },
+        { "name": "example", "value": 891 },
+        { "name": "example", "value": 2893 },
+        { "name": "example", "value": 5103 },
+        { "name": "example", "value": 3677 },
+        { "name": "example", "value": 781 },
+        { "name": "example", "value": 4141 },
+        { "name": "example", "value": 933 },
+        { "name": "example", "value": 5130 },
+        { "name": "example", "value": 3617 },
+        { "name": "example", "value": 3240 },
+        { "name": "example", "value": 2732 },
+        { "name": "example", "value": 2039 },
+        { "name": "example", "value": 1214 },
+        { "name": "example", "value": 3748 },
+        { "name": "example", "value": 843 },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 593 },
+            { "name": "example", "value": 330 },
+            { "name": "example", "value": 287 },
+            { "name": "example", "value": 277 },
+            { "name": "example", "value": 292 },
+            { "name": "example", "value": 595 },
+            { "name": "example", "value": 594 },
+            { "name": "example", "value": 460 },
+            { "name": "example", "value": 603 },
+            { "name": "example", "value": 625 },
+            { "name": "example", "value": 748 },
+            { "name": "example", "value": 461 },
+            { "name": "example", "value": 597 },
+            { "name": "example", "value": 619 },
+            { "name": "example", "value": 283 },
+            { "name": "example", "value": 283 },
+            { "name": "exampled", "value": 591 },
+            { "name": "example", "value": 603 },
+            { "name": "example", "value": 599 },
+            { "name": "example", "value": 386 },
+            { "name": "example", "value": 323 },
+            { "name": "example", "value": 307 },
+            { "name": "example", "value": 772 },
+            { "name": "example", "value": 296 },
+            { "name": "example", "value": 363 },
+            { "name": "example", "value": 600 },
+            { "name": "example", "value": 280 },
+            { "name": "example", "value": 307 },
+            { "name": "example", "value": 335 },
+            { "name": "example", "value": 299 },
+            { "name": "example", "value": 354 },
+            { "name": "_", "value": 264 }
+          ]
+        },
+        { "name": "example", "value": 843 },
+        { "name": "example", "value": 1554 },
+        { "name": "example", "value": 970 },
+        { "name": "example", "value": 13896 },
+        { "name": "example", "value": 1594 },
+        { "name": "example", "value": 4130 },
+        { "name": "example", "value": 791 },
+        { "name": "example", "value": 1124 },
+        { "name": "example", "value": 1876 },
+        { "name": "example", "value": 1101 }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [
+        { "name": "example", "value": 2105 },
+        { "name": "example", "value": 1316 },
+        { "name": "example", "value": 3151 },
+        { "name": "example", "value": 3770 },
+        { "name": "example", "value": 2435 },
+        { "name": "example", "value": 4839 },
+        { "name": "example", "value": 1756 },
+        { "name": "example", "value": 4268 },
+        { "name": "example", "value": 1821 },
+        { "name": "example", "value": 5833 }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [
+        { "name": "example", "value": 8258 },
+        { "name": "example", "value": 10001 },
+        { "name": "example", "value": 8217 },
+        { "name": "example", "value": 12555 },
+        { "name": "example", "value": 2324 },
+        { "name": "example", "value": 10993 },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 9354 },
+            { "name": "example", "value": 1233 }
+          ]
+        },
+        { "name": "example", "value": 335 },
+        { "name": "example", "value": 383 },
+        { "name": "example", "value": 874 },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 3165 },
+            { "name": "example", "value": 2815 },
+            { "name": "example", "value": 3366 }
+          ]
+        },
+        { "name": "example", "value": 17705 },
+        { "name": "example", "value": 1486 },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 6367 },
+            { "name": "example", "value": 1229 },
+            { "name": "example", "value": 2059 },
+            { "name": "example", "value": 2291 }
+          ]
+        },
+        { "name": "example", "value": 5559 },
+        { "name": "example", "value": 19118 },
+        { "name": "example", "value": 6887 },
+        { "name": "example", "value": 6557 },
+        { "name": "example", "value": 22026 }
+      ]
+    },
+    {
+      "name": "example",
+      "children": [
+        {
+          "name": "example",
+          "value": 1202,
+
+          "children": [
+            { "name": "example", "value": 1302 },
+            { "name": "example", "value": 24593 },
+            { "name": "example", "value": 652 },
+            { "name": "example", "value": 636 },
+            { "name": "example", "value": 6703 }
+          ]
+        },
+        {
+          "name": "controls",
+          "children": [
+            { "name": "example", "value": 2138 },
+            { "name": "example", "value": 3824 },
+            { "name": "example", "value": 1353 },
+            { "name": "example", "value": 4665 },
+            { "name": "example", "value": 2649 },
+            { "name": "example", "value": 2832 },
+            { "name": "example", "value": 4896 },
+            { "name": "example", "value": 763 },
+            { "name": "example", "value": 5222 },
+            { "name": "example", "value": 7862 },
+            { "name": "example", "value": 8435 }
+          ]
+        },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 20544 },
+            { "name": "example", "value": 19788 },
+            { "name": "example", "value": 10349 },
+            { "name": "example", "value": 3301 },
+            { "name": "example", "value": 19382 },
+            {
+              "name": "example",
+              "children": [
+                { "name": "example", "value": 698 },
+                { "name": "example", "value": 5569 },
+                { "name": "example", "value": 353 },
+                { "name": "example", "value": 2247 }
+              ]
+            },
+            { "name": "example", "value": 11275 },
+            { "name": "example", "value": 7147 },
+            { "name": "example", "value": 9930 }
+          ]
+        },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 2313 },
+            { "name": "example", "value": 1880 },
+            { "name": "example", "value": 1701 },
+            { "name": "example", "value": 1117 }
+          ]
+        },
+        {
+          "name": "example",
+          "children": [
+            { "name": "example", "value": 20859 },
+            { "name": "example", "value": 4614 },
+            { "name": "example", "value": 10530 }
+          ]
+        },
+        {
+          "name": "example",
+          "children": [
+            {
+              "name": "example",
+              "children": [
+                { "name": "example", "value": 4461 },
+                { "name": "example", "value": 6314 },
+                { "name": "example", "value": 3444 }
+              ]
+            },
+            {
+              "name": "example",
+              "children": [
+                { "name": "example", "value": 3179 },
+                { "name": "example", "value": 4060 },
+                { "name": "example", "value": 4138 },
+                { "name": "example", "value": 1690 },
+                { "name": "example", "value": 1830 }
+              ]
+            },
+            {
+              "name": "example",
+              "children": [
+                { "name": "example", "value": 5219 },
+                { "name": "example", "value": 3165 },
+                { "name": "example", "value": 3509 }
+              ]
+            },
+            { "name": "example", "value": 1286 },
+            {
+              "name": "example",
+              "children": [
+                { "name": "example", "value": 9956 },
+                { "name": "example", "value": 3899 },
+                { "name": "example", "value": 3202 }
+              ]
+            },
+            {
+              "name": "example",
+              "children": [
+                { "name": "example", "value": 6725 },
+                { "name": "example", "value": 3727 },
+                { "name": "example", "value": 9317 },
+                { "name": "example", "value": 12003 },
+                { "name": "example", "value": 4853 },
+                { "name": "example", "value": 8411 },
+                { "name": "example", "value": 4864 },
+                { "name": "example", "value": 3174 },
+                { "name": "example", "value": 7881 },
+                { "name": "example", "value": 12870 },
+                { "name": "example", "value": 2728 },
+                { "name": "example", "value": 12348 },
+                { "name": "example", "value": 870 },
+                { "name": "example", "value": 9121 },
+                { "name": "example", "value": 9191 }
+              ]
+            },
+            { "name": "example", "value": 2490 },
+            { "name": "example", "value": 5248 },
+            { "name": "example", "value": 4190 },
+            { "name": "example", "value": 2581 },
+            { "name": "example", "value": 2023 }
+          ]
+        },
+        { "name": "example", "value": 16540 }
+      ]
+    }
+  ]
+}
